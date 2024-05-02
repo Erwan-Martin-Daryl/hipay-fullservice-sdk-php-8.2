@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.16.1
+
+- [fix]: Fixed `dynamic property` deprecation
+
 ## 2.16.0
 
 - [add]: Add `provider_data` property to Order Requests
