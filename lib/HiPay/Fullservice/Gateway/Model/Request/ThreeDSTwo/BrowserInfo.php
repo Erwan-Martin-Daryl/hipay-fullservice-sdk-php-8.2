@@ -29,7 +29,7 @@ use HiPay\Fullservice\Model\AbstractModel;
  * @link        https://github.com/hipay/hipay-fullservice-sdk-php
  * @api
  */
-#[AllowDynamicProperties]
+#[\AllowDynamicProperties]
 class BrowserInfo extends AbstractModel
 {
     /**
